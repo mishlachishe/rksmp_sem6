@@ -1,0 +1,1 @@
+rootProject.name = "rksmp_pr1-1"
